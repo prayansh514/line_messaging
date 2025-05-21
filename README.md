@@ -17,4 +17,10 @@ npm run start --prefix backend
 
 
 # See the deployed website
+
+open one browser and enter the link and create an account
 https://line-messaging-sjkz.onrender.com/login
+
+open another browser and enter the link and create another account 
+and then enjoy
+
