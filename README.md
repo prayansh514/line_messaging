@@ -2,7 +2,7 @@
 this is a chatting app which is inspired by various chat apps such as whatsapp,messanger etc.It also supports the functionality of calling 
 
 
-#Web Stack used
+# Web_Stack_used
 React js,Node js,Express and MongoDB
 
 #how to run this project locally
