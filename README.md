@@ -1,26 +1,50 @@
-# line_messaging
-this is a chatting app which is inspired by various chat apps such as whatsapp,messanger etc.It also supports the functionality of calling 
+
+# Line Messaging App 
+
+A messaging application, which supports sending friend requests,text chat and video calling functionality
 
 
-# Web_Stack_used
-React js,Node js,Express and MongoDB
+## Tech Stack used
 
-# how to run this project locally
-first run the command 
+1. Node.js & Express.js: RESTful API server, leveraging TanStack Query for data fetching and client-side state management.
 
-npm install --prefix backend && npm install --prefix frontend && npm run build --prefix frontend
+1. MongoDB: NoSQL database for storing users, messages, and call logs.
+
+3. React.js: Frontend UI with React Router and Context API for state management.
+
+4. Stream Video API: Real-time video call infrastructure.
+
+5. TanStack Query: Efficient data fetching, caching, and synchronization for chat messages, user presence, and application state.
 
 
-and then run the command 
+## .env setup in backend
 
-npm run start --prefix backend
+PORT=5001
 
+MONGO_URI=your_mongo_uri
 
-# See the deployed website
+STEAM_API_KEY=your_steam_api_key
 
-open one browser and enter the link and create an account
-https://line-messaging-sjkz.onrender.com/login
+STEAM_API_SECRET=your_steam_api_secret
+JWT_SECRET_KEY=your_jwt_secret
 
-open another browser and enter the link and create another account 
-and then enjoy
+NODE_ENV=development
+## .env setup in frontend
 
+VITE_STREAM_API_KEY=your_stream_api_key
+## Run the backend
+
+cd backend
+npm install
+npm run dev
+## Run the frontend
+
+cd frontend
+npm install
+npm run dev
+## Testing out chatting
+
+To test out chatting or video calling use two different accounts and sign up into these two accounts kept open on two seperate browser windows on one account send a friend request to your other account and on the other accept it then you will be able to start chatting 
+## Deployed website link
+
+    https://line-messaging-sjkz.onrender.com/login
