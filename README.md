@@ -55,3 +55,10 @@ Incase the deployed site is showing too many requests or bad connection , here i
 ## Deployed website link
 
     https://line-messaging-sjkz.onrender.com/login
+## Alternate website link
+
+It maybe that the above website may sometimes crash and you may see 502 error or too many requests for that i have deployed the project on alternate website which you could visit
+
+    https://line-messaging-1.onrender.com/login
+but if this also shows the same please wait for some time and then try to access the website or you can see the demo video for the project posted above    
+    
