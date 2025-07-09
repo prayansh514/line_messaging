@@ -45,6 +45,13 @@ npm run dev
 ## Testing out chatting
 
 To test out chatting or video calling use two different accounts and sign up into these two accounts kept open on two seperate browser windows on one account send a friend request to your other account and on the other accept it then you will be able to start chatting 
+
+## Demo video
+
+Incase the deployed site is showing too many requests or bad connection , here is a demo video on the deployed the website
+
+[▶️ Watch Admin View Demo (Google Drive)](https://drive.google.com/file/d/1TvZ_YuPs_mLIpT5RPobeF0ogUDLeiqgH/preview)
+
 ## Deployed website link
 
     https://line-messaging-sjkz.onrender.com/login
