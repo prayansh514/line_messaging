@@ -50,7 +50,7 @@ To test out chatting or video calling use two different accounts and sign up int
 
 Incase the deployed site is showing too many requests or bad connection , here is a demo video on the deployed the website
 
-[▶️ Watch Admin View Demo (Google Drive)](https://drive.google.com/file/d/1TvZ_YuPs_mLIpT5RPobeF0ogUDLeiqgH/preview)
+[▶️ Watch  Demo (Google Drive)](https://drive.google.com/file/d/1TvZ_YuPs_mLIpT5RPobeF0ogUDLeiqgH/preview)
 
 ## Deployed website link
 
